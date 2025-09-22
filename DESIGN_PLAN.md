@@ -3,9 +3,9 @@
 **Assignment Name:** [AI-Generated Meta-Feedback]
 
 **Algorithm to Implement:**  
-- Describe the algorithm you plan to write.
+- Greedy ALgorithms.
 
-**Edge Cases and Test Cases:**  
+**Edge Cases / Test Cases:**  
 - List the test cases you intend to cover.
 
 **Revision Plan:**  
