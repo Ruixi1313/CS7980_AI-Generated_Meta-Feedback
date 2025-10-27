@@ -7,4 +7,3 @@ Project focuses on AI-Generated Meta-Feedback in Student Learning &amp; Collabor
 - Complete DESIGN_PLAN.md before coding.
 - Implement your algorithm in algorithm.py.
 - Add test cases in the tests/ folder.
-- Make at least 3 commits over 2+ days with clear commit messages.
